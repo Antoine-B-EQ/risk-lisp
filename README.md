@@ -1,7 +1,7 @@
-### risk-lisp
+# risk lisp
 
 
-# Risk type game but in CLisp and in written in functional code.
+### Risk type game but in CLisp and in written in functional code.
 
 
 * Players can occupy spaces on a grid, each space in the grid have dice on it owned by the player.
